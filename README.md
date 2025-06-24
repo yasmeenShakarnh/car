@@ -9,7 +9,6 @@ A **JavaFX desktop application** for managing car records with full **CRUD** fun
 - [📖 Overview](#-overview)  
 - [✨ Features](#-features)  
 - [🛠️ Technologies Used](#-technologies-used)  
-- [💾 Installation](#-installation)  
 - [🚀 Usage](#-usage)  
 - [🗄️ Database Setup](#-database-setup)  
 -
@@ -40,13 +39,7 @@ The **Car Management System** is a desktop application built using **JavaFX** th
 
 ---
 
-## 💾 Installation
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/yourusername/car-management-system.git
-   cd car-management-system
-   ```
 
 2. **Set up MySQL database**
 
